@@ -24,10 +24,10 @@ public class Meat
 			if(characterChoice.equals("Warden"))
 				{
 					playerIndex = 0;
-					System.out.println("You are on defense.FIRE!!!");
+					System.out.println("You are on defense. FIRE!!!");
 				}
 			
-			if(characterChoice.equals("Sledge"))
+			if(characterChoice.equals("Dokkaebi"))
 				{
 					playerIndex = 1;
 					System.out.println("You are on offense. FIRE!!!");

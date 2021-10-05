@@ -9,7 +9,7 @@ public class Operators
 			
 			listOfOperators.add(new Operator("Warden", "Defender", 125));
 			
-			listOfOperators.add(new Operator("Sledge", "Attacker", 110));
+			listOfOperators.add(new Operator("Dokkaebi", "Attacker", 110));
 			
 		}
 	}
