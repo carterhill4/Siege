@@ -7,9 +7,9 @@ public class Operators
 		public static void addOps()
 		{
 			
-			listOfOperators.add(new Operator("Warden", "Defender", 110));
+			listOfOperators.add(new Operator("Tachanka", "Defender", 110));
 			
 			listOfOperators.add(new Operator("Dokkaebi", "Attacker", 125));
-			
+		
 		}
 	}

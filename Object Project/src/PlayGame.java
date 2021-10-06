@@ -8,7 +8,7 @@ public class PlayGame
 						Meat.beginning();
 				while(Operators.listOfOperators.get(Meat.playerIndexP1).getHealth() >= 0 && Operators.listOfOperators.get(Meat.playerIndexP2).getHealth() >= 0)
 					{
-						Meat.Warden();
+						Meat.Tachanka();
 						Meat.Dokkaebi();
 					}
 					
