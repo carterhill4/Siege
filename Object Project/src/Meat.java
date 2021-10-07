@@ -59,7 +59,7 @@ public class Meat
 				 				Operators.listOfOperators.get(playerIndexP1).setHealth(Operators.listOfOperators.get(playerIndexP1).getHealth() - 125);
 				 				System.out.println("Head shot!");
 				 				System.out.println("Dokkaebi is dead");
-				 				System.out.println("Kill confirmed.");
+				 				System.out.println("Kill confirmed. Tachanka wins!");
 				 				System.exit(shot);
 				 				
 				 			}
