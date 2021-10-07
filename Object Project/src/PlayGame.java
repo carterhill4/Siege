@@ -11,7 +11,7 @@ public class PlayGame
 						Meat.Tachanka();
 						Meat.Dokkaebi();
 					}
-					
+					//home edit 10/6/21
 			}
 
 	}
