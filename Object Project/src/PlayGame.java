@@ -10,6 +10,7 @@ public class PlayGame
 					{
 						Meat.Tachanka();
 						Meat.Dokkaebi();
+						//home commit 10/7/21
 					}
 			}
 	}
